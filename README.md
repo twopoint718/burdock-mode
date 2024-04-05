@@ -61,7 +61,7 @@ much faster feedback loop than the traditional write/run pattern
 commonly seen with Ruby development. It is a fantastic compliment
 to an automated test runner or other testing tool such as
 [`rspec-mode`](https://github.com/pezra/rspec-mode). Finally it is
-great way to [poke at things](http://www.posteriorscience.net/?p=206).
+great way to poke at things.
 
 To get an appreciation for this start a Ruby process by running
 <kbd>M-x</kbd> `run-ruby` or your preferred method then create a new
